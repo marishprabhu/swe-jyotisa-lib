@@ -21,7 +21,7 @@
 
     <dependencies>
         <dependency>
-            <groupId>swisseph</groupId>
+            <groupId>com.github.marishprabhu</groupId>
             <artifactId>swe-jyotisa-api</artifactId>
             <version>2.10.03j</version>
         </dependency>
